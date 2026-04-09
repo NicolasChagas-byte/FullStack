@@ -105,9 +105,9 @@ ctx.closePath();
 
 //Linha Verde (Meio)
 ctx.beginPath();
-ctx.lineWidth = 1;
+ctx.lineWidth = 2;
 ctx.fillStyle = 'green';
 ctx.strokeStyle = 'green';
-ctx.fillRect(370,200,100,1);
-ctx.strokeRect(370,200,100,1);
+ctx.fillRect(0,200,400,1);
+ctx.strokeRect(0,200,400,1);
 ctx.closePath();
