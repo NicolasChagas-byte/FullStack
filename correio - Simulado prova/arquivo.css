@@ -1,0 +1,75 @@
+.parte_cima{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    color: gray
+}
+
+button{
+    text-align: center;
+    color: white;
+    background-color: red;
+    border: none;
+    padding: 15px 32px;
+}
+
+.detalhes{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.mais_detalhes{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+.titulo{
+    color: red;
+    font-size: 50px;
+}
+
+.carro{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.txt_carro{
+    color: white;
+    background-color: red;
+    padding: 5px;
+    width: 500px;
+}
+
+.txt_carro_02{
+    color: white;
+    background-color: red;
+    padding: 5px;
+    width: 500px;
+}
+
+.mulher{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+#correio{
+    color: white;
+}
+.fundo_video{
+    background-color: grey;
+}
+
+.video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.esquerda{
+    display: flex;
+    justify-content: flex-start;
+}
